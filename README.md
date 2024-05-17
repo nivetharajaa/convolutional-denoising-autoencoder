@@ -37,8 +37,8 @@ Plot the predictions for visualization
 
 ## PROGRAM
 ```
-Developed by: VIDHYASRI.K
-Register no: 212222230170
+Developed by: NIVETHA A
+Register no: 212222230101
 
 Import necessary libraries
 
